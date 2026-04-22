@@ -3,33 +3,27 @@
   
 ### Morpheus (2024-2)
 
-[Acesso ao projeto no github](https://github.com/Byte-Boost/Nebulon)
+[Acesso ao projeto no github](https://github.com/Morpheus-Fatec/morpheus)
 
 Projeto desenvolvido pela equipe Morpheus, alunos do 3° Semestre de Banco de Dados. Desenvolvimento de uma aplicação web responsável por realizar raspagem de dados de portais pré-definidos a partir de tags designadas. Após o recebimento dos dados, gerenciá-los a longo prazo, efetuando ligações de conteúdos semelhantes com o objetivo de servir como fundamento para tomada de decisões e análise futuras. Projeto proposto pela FATEC e realizado em parceria com a empresa GSW.
 
 #### Tecnologias
 
-Java Spring Boot e 
-
-- TypeScript foi utilizado no front-end para garantir tipagem estática, maior robustez e melhor manutenção do código.
-
-- JavaScript foi utilizado no back-end com Node.js e Express, permitindo flexibilidade e agilidade no desenvolvimento da API.
-
-Next.js e TailwindCSS
-
-- Utilizados para desenvolvimento do front-end com foco em componentização e design responsivo.
-
-React
-
-- Biblioteca utilizada para construção da interface interativa e dinâmica.
-
-Node.js, Express e Sequelize
+Java Spring Boot
 
 - Empregados na criação do back-end da aplicação, com organização de rotas, controle de autenticação e manipulação do banco de dados relacional (MySQL).
 
+Maven
+
+- Ferramenta de automação de build utilizada para gerenciar dependências e facilitar a compilação do projeto.
+
+Vue.js
+
+- Biblioteca utilizada para construção da interface interativa e dinâmica.
+
 MySQL
 
-- Banco de dados utilizado para armazenar e consultar as informações do sistema.
+- Banco de dados relacional utilizado para armazenar as informações extraídas e manipuladas.
 
 Swagger
 
@@ -99,28 +93,11 @@ Desenvolvimento de filtros dinâmicos para listagem de notícias e portais de no
 - <ins>**Conhecimento de Git e suas funções:**</ins> pude expandir meus conhecimentos de versionamento através do Git e organização de projetos, práticas essas que trouxe para meu time no trabalho. 
 
 ### SOFTSKILLS
-- <ins>**Perpectiva do todo da aplicação:**</ins> em outros semestres dois semestres havia desempenhado papéis de SM e PO, fazendo-se mais intuitivo e natural a compreensão da aplicação como um todo. Já como time desenvolvimento, precisei agir com intecionalidade para acompanhar desenvolvimentos por vezes distantes dos meus.
+- <ins>**Compreensão da aplicação como um todo:**</ins> em outros semestres dois semestres havia desempenhado papéis de SM e PO, fazendo-se mais intuitivo e natural a compreensão da aplicação como um todo. Já como time desenvolvimento, precisei agir com intecionalidade para acompanhar desenvolvimentos por vezes distantes dos meus.
   
 - <ins>**Desenvolvimento cooperativo:**</ins> Em meu primeiro API como time de desenvolvimento, precisei em atuar em várias frentes de desenvolvimento, auxiliando no desenvolvimento de funcionalidades de outros membros, resolvendo inconsitências e assumindo tasks incompletas. Nesse projeto fizemos uma organização mais concisa do time, onde todos desempenhavam e se responsabilizavam por suas entregas, trazendo mais produtividade e qualidade e menos desgate.
   
 - <ins>**Gestão de prioridades alinhados ao MVC:**</ins> Com um time mais organizado e harmônico, pude me dedicar mais às tasks de minha responsabilidade, podendo planejá-las e propôr novas formas e tecnologias para aplicação. Através disso, pude fazer aplicação do MVC para balancear minhas entregas visando entregas de boa qualidade e que agregassem valor.
-
-#### Hard Skills
-
-| Hard Skill  | Nivel de Proficiência |
-| ----------- | --------------------- |
-| Typescript  | Consigo ensinar       |
-| Javascript  | Consigo ensinar       |
-| MySQL       | Consigo ensinar       |
-| React       | Consigo ensinar       |
-| Express     | Uso com Autonomia     |
-| Sequelize   | Uso com Autonomia     |
-| NextJS      | Uso com Autonomia     |
-| NodeJS      | Consigo ensinar       |
-| TailwindCSS | Consigo ensinar       |
-| CSS         | Consigo ensinar       |
-| Git         | Consigo ensinar       |
-
 
 </details>
 
