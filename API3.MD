@@ -1,13 +1,10 @@
-<details>
-  <summary><strong>📕 Morpheus (2024-2) </strong></summary>
-  
-### Morpheus (2024-2)
+# Morpheus (2024-2)
 
 [Acesso ao projeto no github](https://github.com/Morpheus-Fatec/morpheus)
 
 Projeto desenvolvido pela equipe Morpheus, alunos do 3° Semestre de Banco de Dados. Desenvolvimento de uma aplicação web responsável por realizar raspagem de dados de portais pré-definidos a partir de tags designadas. Após o recebimento dos dados, gerenciá-los a longo prazo, efetuando ligações de conteúdos semelhantes com o objetivo de servir como fundamento para tomada de decisões e análise futuras. Projeto proposto pela FATEC e realizado em parceria com a empresa GSW.
 
-#### Tecnologias
+## Tecnologias
 
 Java Spring Boot
 
@@ -29,12 +26,14 @@ Swagger
 
 - Utilizado para documentação da API RESTful.
 
+## Contribuições pessoais
+
 ### Desenvolvimento inicial do modelo de dados: 
 Muito atrelado às minhas demandas no trabalho e meus desenvolvimentos pessoais, logo puxei essa tarefa para que pudesse entender ainda melhor a relação entre tabelas, seus padrões de normalização e como otimizar o armazenamento de dados visando futuras consultas. 
 
 Além disso, realizei o desenvolvimento do diagrama de entidade e relacionamento para estruturar o banco e criação do DDL inicial da aplicação.
 
-![DER](images/der.png)
+// ![DER](images/der.png)
 
 ### Configuração de agendamento de tarefas CRON:
 Essa atividade me despertou muita curiosidade para entender como poderia executar tarefas de forma assíncrona e programada. Nesse desenvolvimento pude compreender como o Spring realiza a gestão dos beans e os mantém desempeanhado de forma automaticamente de acordo com as configurações definidas.
