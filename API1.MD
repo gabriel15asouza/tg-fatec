@@ -7,9 +7,7 @@ O projeto Duck desenvolvido durante o segundo semestre do curso teve como empres
 
 [Acesso ao projeto no github](https://github.com/Byte-Boost/Duck)
 
-O problema apresentado pelo cliente envolvia a dificuldade em analisar grandes volumes de documentos para encontrar informações específicas. Esse processo, muitas vezes manual e demorado, impactava negativamente a produtividade em atividades como estudos, pesquisas ou revisão de conteúdos corporativos.
-
-A solução desenvolvida pela equipe foi uma aplicação desktop em Java voltada para a extração inteligente de informações de documentos. Utilizando inteligência artificial, o sistema permite que os usuários carreguem arquivos em formato PDF ou TXT e, a partir deles, possam gerar automaticamente perguntas e respostas relevantes sobre o conteúdo. O objetivo é facilitar o estudo, a análise de dados e a compreensão de textos complexos, tornando o processo muito mais rápido e interativo.
+Aaplicação desktop em Java voltada para a extração inteligente de informações de documentos. Utilizando inteligência artificial, o sistema permite que os usuários carreguem arquivos em formato PDF ou TXT e, a partir deles, possam gerar automaticamente perguntas e respostas relevantes sobre o conteúdo. O objetivo é facilitar o estudo, a análise de dados e a compreensão de textos complexos, tornando o processo muito mais rápido e interativo.
 
 #### Tecnologias
 
@@ -31,9 +29,9 @@ CSS
 
 #### Contribuições pessoais
 
-Neste projeto, atuei como membro do Dev Team, com foco na formatação dos documentos que seriam processados pela inteligência artificial, garantindo que a entrada estivesse adequada ao modelo de extração de perguntas e respostas.
+Neste projeto, atuei como Scrum Master, contribuindo com o desenvolvimento ágil da equipe, removendo impedimentos, gerindo o desenvolvimento e entregas de funcionalidades através de ferramentes de Kanban e Burndown e promovendo eventos Daily e Retrospectivas de sprint.
 
-Implementei multithreading na aplicação, permitindo uma execução do chat mais eficiente e fluida de processos simultâneos, como a leitura de arquivos e o processamento de dados. Também fui responsável pela estilização da página de login da aplicação e pela organização dos repositórios, estruturando o projeto com o uso de submodules e Gradle, o que facilitou a integração entre os componentes e assegurou uma compilação estável.
+Em paralelo, realizei também criação de telas em funcionalidades secundárias de JavaFx, focando em contribuir com atividades de pair programming.
 
 #### Hard Skills
 
@@ -46,8 +44,11 @@ Implementei multithreading na aplicação, permitindo uma execução do chat mai
 | CSS        | Uso com Autonomia     |
 | Git/Github | Uso com Autonomia     |
 
-#### Soft Skills
+### SOFTSKILLS
+- <ins>**Comunicação assertiva:**</ins> como Scrum Master, precisei mediar a comunicação entre o time de desenvolvimento e o Product Owner, transmitindo impedimentos, decisões e alinhamentos de forma clara e objetiva para todas as partes, garantindo que todos estivessem alinhados com os objetivos da sprint.
 
-Demonstrei proatividade ao contribuir com a criação da identidade visual do projeto, desenvolvendo a logo oficial do Duck. Além disso, ofereci suporte técnico aos colegas, especialmente no uso do JavaFX e na aplicação das boas práticas da linguagem Java.
+- <ins>**Gestão de conflitos:**</ins> diante de divergências entre membros da equipe, atuei como mediador, aplicando escuta ativa e propondo acordos que preservassem o clima colaborativo sem comprometer o andamento e a qualidade das entregas.
+
+- <ins>**Facilitação de retrospectivas:**</ins> conduzi retrospectivas de forma estruturada, criando um ambiente seguro para que o time pudesse expor dificuldades e propor melhorias reais no processo, tornando cada sprint mais eficiente que a anterior.
 
 </details>
