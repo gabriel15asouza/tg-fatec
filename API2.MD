@@ -1,4 +1,4 @@
-# Mr. Blue Sky (2025-1)
+# Mr. Blue Sky (2024-1)
 
 [Acesso ao projeto no github](https://github.com/VCCorpTeam/Leitor-de-clima)
 
