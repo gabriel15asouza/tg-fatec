@@ -1,6 +1,3 @@
-<details>
-  <summary><strong>📙 Mr. Blue Sky (2024-1) </strong></summary>
-  
 # Mr. Blue Sky (2025-1)
 
 [Acesso ao projeto no github](https://github.com/VCCorpTeam/Leitor-de-clima)
@@ -48,6 +45,4 @@ Exportação dos dados organizados em planilhas ou em formato BoxPlot.
 - <ins>**Proposição de regras de negócio:**</ins> cooperei junto ao PO para promover soluções que atendessem às necessidades do cliente, informando a viabilidade téncnica e propondo alternativas.
   
 - <ins>**Dinamismo e resiliência:**</ins> diante de situações em que o andamento do projeto foi impactado por gaps de comprometimento entre os membros da equipe, desenvolvi a capacidade de reorganizar prioridades e absorver demandas além do escopo inicial, garantindo que as entregas das sprints fossem cumpridas dentro do prazo estabelecido.
-
-</details>
 
