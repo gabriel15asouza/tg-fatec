@@ -3,7 +3,7 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/126245773?v=4" alt="Foto de Perfil" height="20%" width="20%">
 
 <p align="justify"  >
-Me nome é Gabriel Alves de Souza, tenho 21 anos e sou desenvolvedor backend. Trabalho com tecnologia desde 2023, mas sou apaixonado mesmo por criar soluções. Sou motivado por solucionar problemas e acredito na tecnologia como uma importante aliada nesse processo.
+Me nome é Gabriel Alves de Souza, tenho 22 anos e sou desenvolvedor backend. Trabalho com tecnologia desde 2023, mas sou apaixonado mesmo por criar soluções. Sou motivado por solucionar problemas e acredito na tecnologia como uma importante aliada nesse processo.
 </p>
 
 
@@ -32,4 +32,10 @@ Ferramentas
 </h3>
 <img src="https://skillicons.dev/icons?i=git,maven,hibernate&perline=7">
 
-## Projetos
+
+| Semestre | Projeto | Descrição |
+|----------|---------|-----------|
+| 2023-2 | [🦆 Duck](./API1.MD) | Aplicação desktop para extração inteligente de informações de documentos PDF e TXT utilizando inteligência artificial para geração de perguntas e respostas. |
+| 2024-1 | [🌤 Mr. Blue Sky](./API2.MD) | Ferramenta desktop para consolidação e gerenciamento de dados climáticos de cidades de São Paulo a partir de múltiplos arquivos CSV. |
+| 2024-2 | [🕷 Morpheus](./API3.MD) | Aplicação web para raspagem de dados em portais pré-definidos com gerenciamento a longo prazo e ligação de conteúdos semelhantes para suporte à tomada de decisões. |
+| 2025-1 | [🗺 Polygon Editor](./API4.MD) | Plataforma web de edição poligonal para importação e revisão de arquivos GeoJson de talhões capturados por drone, gerando correções para continuidade do processo de Machine Learning. |
