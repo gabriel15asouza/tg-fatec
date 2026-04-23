@@ -32,6 +32,8 @@ Ferramentas
 </h3>
 <img src="https://skillicons.dev/icons?i=git,maven,hibernate&perline=7">
 
+## Projetos
+
 
 | Semestre | Projeto | Descrição |
 |----------|---------|-----------|
