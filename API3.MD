@@ -33,7 +33,7 @@ Muito atrelado às minhas demandas no trabalho e meus desenvolvimentos pessoais,
 
 Além disso, realizei o desenvolvimento do diagrama de entidade e relacionamento para estruturar o banco e criação do DDL inicial da aplicação.
 
-// ![DER](images/der.png)
+<!-- ![DER](images/der.png) -->
 
 ### Configuração de agendamento de tarefas CRON:
 Essa atividade me despertou muita curiosidade para entender como poderia executar tarefas de forma assíncrona e programada. Nesse desenvolvimento pude compreender como o Spring realiza a gestão dos beans e os mantém desempeanhado de forma automaticamente de acordo com as configurações definidas.
