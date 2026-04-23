@@ -1,6 +1,3 @@
-<details>
-  <summary><strong>📒 Polygon Editor (2025-1) </strong></summary>
-  
 # Polygon Editor (2025-1)
 
 O projeto Polygon Editor desenvolvido durante o quarto semestre do curso, teve como empresa parceira a Visiona
@@ -67,6 +64,4 @@ Ao consumir a API de login do usuário, armzenei-a através de pinia para autori
 - <ins>**Resolução de conflitos:**</ins> no decorrer do projeto, houveram alguns conflitos na cooperação da equipe. Foi necessário a aplicação de estratégias para contornar as divergências e garantir boas entregas nas sprint reviews.
   
 - <ins>**Análise crítica:**</ins> ao trabalhar com tarefas de autenticação e gestão de usuários por cago, pude mapear cenários de uso da aplicação de modo a identificar possíveis fragilidades e inconsistências que infrigiriam as regras de negócio estabelecidas.
-
-</details>
 
