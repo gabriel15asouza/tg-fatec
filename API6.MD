@@ -9,8 +9,6 @@ Ela consolida e processa dados de distribuidoras de energia para fornecer indica
 
 ## Tecnologias
 
-## Tecnologias
-
 ### React, TypeScript, Vite e TailwindCSS
 
 - Utilizados no desenvolvimento da interface web da aplicação.
