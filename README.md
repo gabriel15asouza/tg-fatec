@@ -15,23 +15,6 @@ Me nome é Gabriel Alves de Souza, tenho 22 anos e sou desenvolvedor backend. Tr
 
 ## Conhecimentos
 
-<h3>
-Linguagens
-</h3>
-<img src="https://skillicons.dev/icons?i=java,python&perline=4">
-<h3>
-Frameworks
-</h3>
-<img src="https://skillicons.dev/icons?i=spring,vue&perline=7">
-<h3>
-Database
-</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=7">
-<h3>
-Ferramentas
-</h3>
-<img src="https://skillicons.dev/icons?i=git,maven,hibernate&perline=7">
-
 | Ferramenta / Framework | Nível de Proficiência |
 |---|---|
 | Java | ⭐⭐⭐⭐ |
