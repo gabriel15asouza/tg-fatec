@@ -3,9 +3,19 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/126245773?v=4" alt="Foto de Perfil" height="20%" width="20%">
 
 <p align="justify"  >
-Me nome é Gabriel Alves de Souza, tenho 22 anos e sou desenvolvedor backend. Trabalho com tecnologia desde 2023, mas sou apaixonado mesmo por criar soluções. Sou motivado por solucionar problemas e acredito na tecnologia como uma importante aliada nesse processo.
+Meu nome é Gabriel Alves de Souza, tenho 22 anos e atualmente atuou como analista de sistemas na empresa TOTVS. Trabalho com tecnologia desde 2023 e sou motivado por desenvolver soluções. Trazer resoluções para problemas e promover melhorias para processos é algo que me instiga e acredito na tecnologia como uma importante aliada para alcançar esses objetivos.
+</p>
+<p align="justify"  >
+Tenho contríbuido em meu trabalho no levantamento e desenvolvimento de requisitos alinhado a processos de ERP e gestão empresarial. Realizo implantações de rotinas para executar processos de supply chain e metrificar performance desempenhada em cada uma das etapas desse fluxo, atuando principalemente nas frentes de PCP, Faturamento, Compras e Estoque.
+</p>
+<p align="justify"  >
+Minhas realizações profissionais de maior notoridade são:
 </p>
 
+- Desenvolvimento de pipeline de CI integrada ao Claude para análise estática e funcional de funcionalidades desenvolvidas;
+- Implementação de etapa de code review em fábrica de software onde atuo, reduzindo em aproximandamente 30% os bugs identificados no cliente nos primeiros 3 meses;
+- Análise de regras de negócio,levantamento de requisitos e definição de rotinas empresariais junto ao cliente;
+- Levantamento de métricas de desempenho do time integradas a ferramentas de gestão;
 
 ## Contato
 
