@@ -32,6 +32,23 @@ Ferramentas
 </h3>
 <img src="https://skillicons.dev/icons?i=git,maven,hibernate&perline=7">
 
+| Ferramenta / Framework | Nível de Proficiência |
+|---|---|
+| Java | ⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐⭐ |
+| JavaFX | ⭐⭐⭐⭐⭐ |
+| Spring Boot | ⭐⭐⭐⭐ |
+| FastAPI | ⭐⭐⭐⭐ |
+| Vue.js | ⭐⭐  |
+| React | ⭐⭐ |
+| Swagger | ⭐⭐⭐⭐⭐|
+| MongoDB | ⭐⭐⭐⭐ |
+| Git | ⭐⭐⭐⭐|
+| GitHub Actions | ⭐⭐⭐|
+| Docker | ⭐⭐⭐|
+| JUnit | ⭐⭐⭐⭐⭐|
+
 ## Projetos
 
 
@@ -41,3 +58,5 @@ Ferramentas
 | 2024-1 | [🌤 Mr. Blue Sky](./API2.MD) | Ferramenta desktop para consolidação e gerenciamento de dados climáticos de cidades de São Paulo a partir de múltiplos arquivos CSV. |
 | 2024-2 | [🕷 Morpheus](./API3.MD) | Aplicação web para raspagem de dados em portais pré-definidos com gerenciamento a longo prazo e ligação de conteúdos semelhantes para suporte à tomada de decisões. |
 | 2025-1 | [🗺 Polygon Editor](./API4.MD) | Plataforma web de edição poligonal para importação e revisão de arquivos GeoJson de talhões capturados por drone, gerando correções para continuidade do processo de Machine Learning. |
+| 2025-2 | [📋 Neo Horizon](./API5.MD) | Aplicação web de inteligência de negócios para gestão de projetos com objetivo de analisar produtividade do time e custos de cada projeto. |
+| 2026-1 | [⚡ Zeus](./API6.MD) | Plataforma de inteligência de mercado para o setor elétrico baseada em dados da ANEEL. |
