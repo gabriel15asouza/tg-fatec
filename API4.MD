@@ -2,7 +2,7 @@
 
 O projeto Polygon Editor desenvolvido durante o quarto semestre do curso, teve como empresa parceira a Visiona
 
-[Acesso ao projeto no github](https://github.com/Byte-Boost/WeCollab)
+[Acesso ao projeto no github](https://github.com/Morpheus-Fatec/API_4S_Visiona_PolygonEditor)
 
 Desenvolvimento de uma plataforma web de edição poligonal com objetivo de importar arquivos geoJson de talhões capturados por drone. O Objetivo é possibilitar a revisão por um analista das imagens captadas e gerar arquivos GeoJson com as correções para dar continuidade ao processo de Machine Learning. Projeto proposto pela FATEC em parceria com empresa Visiona e desenvolvido pela equipe Morpheus, alunos do 4° Semestre de Banco de Dados.
 
