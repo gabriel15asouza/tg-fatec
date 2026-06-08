@@ -30,16 +30,6 @@ Neste projeto, atuei como Scrum Master, contribuindo com o desenvolvimento ágil
 
 Em paralelo, realizei também criação de telas em funcionalidades secundárias de JavaFx, focando em contribuir com atividades de pair programming.
 
-## Hard Skills
-
-| Hard Skill | Nivel de Proficiência |
-| ---------- | --------------------- |
-| Java       | Uso com Autonomia     |
-| Gradle     | Uso com Autonomia     |
-| JavaFX     | Uso com Autonomia     |
-| MySQL      | Uso com Autonomia     |
-| CSS        | Uso com Autonomia     |
-| Git/Github | Uso com Autonomia     |
 
 ## SOFTSKILLS
 - <ins>**Comunicação assertiva:**</ins> como Scrum Master, precisei mediar a comunicação entre o time de desenvolvimento e o Product Owner, transmitindo impedimentos, decisões e alinhamentos de forma clara e objetiva para todas as partes, garantindo que todos estivessem alinhados com os objetivos da sprint.
