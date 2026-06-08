@@ -29,12 +29,12 @@ Minhas realizações profissionais de maior notoridade são:
 |---|---|
 | Java | ⭐⭐⭐⭐ |
 | Python | ⭐⭐⭐⭐ |
-| SQL | ⭐⭐⭐⭐⭐ |
-| JavaFX | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐ |
 | Spring Boot | ⭐⭐⭐⭐ |
 | FastAPI | ⭐⭐⭐⭐ |
 | Vue.js | ⭐⭐  |
 | React | ⭐⭐ |
+| JavaFX | ⭐⭐⭐⭐⭐ |
 | Swagger | ⭐⭐⭐⭐⭐|
 | MongoDB | ⭐⭐⭐⭐ |
 | Git | ⭐⭐⭐⭐|
